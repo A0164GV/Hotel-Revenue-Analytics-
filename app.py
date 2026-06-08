@@ -305,3 +305,4 @@ Direct channel to maximize net revenue.
 
 st.sidebar.markdown("---")
 st.sidebar.caption("Hotel Revenue BI Workshop · Streamlit + Scikit-Learn")
+
